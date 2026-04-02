@@ -1,0 +1,19 @@
+{
+  "_note": "accountAssociation not required — Base App uses base.dev registration from April 2026",
+  "miniapp": {
+    "version": "1",
+    "name": "PowerBase",
+    "homeUrl": "https://DOMAIN_PLACEHOLDER",
+    "iconUrl": "https://DOMAIN_PLACEHOLDER/icon.png",
+    "splashImageUrl": "https://DOMAIN_PLACEHOLDER/splash.png",
+    "splashBackgroundColor": "#050a12",
+    "subtitle": "Electric Power & HP Converter",
+    "description": "Convert electric power between any unit and horsepower. Calculate current (Amps) for DC, AC single-phase and 3-phase circuits. Every calculation logs permanently on Base.",
+    "primaryCategory": "tools",
+    "tags": ["power", "horsepower", "engineering", "calculator", "base", "tools", "electric"],
+    "tagline": "Power on-chain",
+    "ogTitle": "PowerBase ⚡ Power Converter on Base",
+    "ogDescription": "Electric power ↔ HP converter & current calculator. Every calc logs on Base.",
+    "ogImageUrl": "https://DOMAIN_PLACEHOLDER/og.png"
+  }
+}
